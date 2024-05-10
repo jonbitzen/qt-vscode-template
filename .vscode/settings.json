@@ -1,0 +1,19 @@
+{
+    "editor.rulers": [80,120],
+    "files.associations": {
+        "*.moc": "cpp",
+        "*.qrc": "xml",
+        "*.ui": "xml",
+    },
+    "code-runner.executorMapByFileExtension": {
+        ".qrc": "designer",
+        ".ui": "designer"
+    },
+    "VsCodeTaskButtons.showCounter": false,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "QtDesigner",
+            "task": "QtDesigner"
+        }
+    ]
+}

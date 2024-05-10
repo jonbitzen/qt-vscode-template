@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "ms-vscode.cpptools", 
+        "ms-vscode.cmake-tools", 
+        "twxs.cmake", 
+        "spencerwmiles.vscode-task-buttons",
+        "formulahendry.code-runner",
+        "donjayamanne.githistory"
+    ]
+}
